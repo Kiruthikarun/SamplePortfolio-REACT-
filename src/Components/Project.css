@@ -1,0 +1,15 @@
+.Project{
+
+  background-color: rgb(0, 0, 0);
+  color:white;
+  padding: 10px;
+  height: 100%;
+  max-width: 100%;
+  position: relative;
+  border-radius: 20px;
+  box-shadow: 0px -1px 41px 22px rgba(0, 0, 0, 0.23);  
+  margin-top: 10px;
+  margin-left: 1rem;
+  margin-bottom: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,26 @@
+.head{
+  margin:0 auto;
+  background-color: orange;
+  color:black;
+  padding: 10px;
+  height: max-content;
+  max-width: 100%;
+  position: relative;
+  box-shadow: 0px -1px 41px 22px rgba(230, 130, 0, 0.23);  
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.new{
+  margin-top: -20px;
+  font-weight: bold;
+  color: rgb(82, 81, 81);
+  font-size: large;
+  font-family: cambria;
+}
+
+.new2{
+  margin-top: -2px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-family: Bell Mt;
+}
